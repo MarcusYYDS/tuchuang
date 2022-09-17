@@ -1,6 +1,6 @@
 {
   "name": "marcusyyds-assets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "静态资源仓库\u001b[D \u001b[D\u001b[D\u001b[D \u001b[D\u001b[D\u001b[D \u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[n: 静态资源仓库",
   "main": "index.js",
   "scripts": {
